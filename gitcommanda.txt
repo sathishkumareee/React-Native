@@ -1,0 +1,10 @@
+git add filename   
+git commit -m "Your message"  
+git push
+git pull or git pull --no-ff
+git checkout -b "branchname" --> it will create a branch
+git checkout branchname --> it will switch to branchname
+git branch --> it will show the current branch
+git status --> it will show the status
+git diff --> it will show the diff in same file
+git log --> it will show the log
